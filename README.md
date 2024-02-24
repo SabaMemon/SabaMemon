@@ -2,8 +2,8 @@
 
 ```python
 def main():
-  💻 studentOf = "Computer Science Graduate from Toronto Metropolitan University"
-  🌱 someCoursesTaken = ["Virtual Reality", "Data Mining", "Data Science", "Software Tools"]
+  💻 graduatedFrom = "Computer Science (BSc) at Toronto Metropolitan University"
+  🌱 lastCoursesTaken = ["Virtual Reality", "Data Mining", "Data Science", "Software Tools"]
   ⚡ print("Seeking New Grad Opportunities for Summer '24")
   
   
