@@ -1,6 +1,5 @@
 # Hi, I'm Saba! Welcome to my profile 💟
 
-## About Me:
 ```python
 def main():
   💻 studentOf = "Computer Science Student at Toronto Metropolitan University"
@@ -11,6 +10,8 @@ def main():
 if __name__ == "__main__":
   main()
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaMemon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me on LinkedIn: 
 <a href="https://www.linkedin.com/in/saba-memon/">
