@@ -2,9 +2,9 @@
 
 ```python
 def main():
-  💻 studentOf = "Computer Science Student at Toronto Metropolitan University"
-  🌱 currentCourses = ["Virtual Reality", "Data Mining", "Data Science", "Software Tools"]
-  ⚡ print("Seeking New Grad Opportunities for Summer '23")
+  💻 studentOf = "Computer Science Graduate from Toronto Metropolitan University"
+  🌱 someCoursesTaken = ["Virtual Reality", "Data Mining", "Data Science", "Software Tools"]
+  ⚡ print("Seeking New Grad Opportunities for Summer '24")
   
   
 if __name__ == "__main__":
